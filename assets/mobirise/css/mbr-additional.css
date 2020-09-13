@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter:400&display=swap);
 @import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&display=swap);
 
 
@@ -8,12 +9,12 @@ body {
   font-family: IBM Plex Sans;
 }
 .display-1 {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 4.6rem;
+  font-family: 'Architects Daughter', handwriting;
+  font-size: 4.8rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.75rem;
+  font-size: 6rem;
 }
 .display-2 {
   font-family: 'IBM Plex Sans', sans-serif;
@@ -54,14 +55,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.68rem;
+    font-size: 3.84rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.22rem;
-    font-size: calc( 2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.36rem;
+    font-size: calc( 2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.33rem + (4.8 - 2.33) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1083,7 +1084,7 @@ a {
   }
 }
 .cid-sackiOpNek {
-  background-image: url("../../../assets/images/img-282-1200x804.jpg");
+  background-image: url("../../../assets/images/img-314-1620x2160.jpeg");
 }
 .cid-sackiOpNek .mbr-section-title {
   color: #ffffff;
