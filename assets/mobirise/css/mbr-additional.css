@@ -3809,7 +3809,7 @@ a {
 }
 .cid-saYa8kNDGQ {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-saYa8kNDGQ .row {
@@ -3830,10 +3830,32 @@ a {
 .cid-saYa8kNDGQ .mbr-section-title {
   text-align: left;
 }
-.cid-saYaYb1cUz {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.cid-saYBPfGNCU {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  position: relative;
   background-color: #ffffff;
+}
+.cid-saYBPfGNCU .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-saYBPfGNCU a.panel-title {
+  display: flex;
+  align-items: center;
+}
+.cid-saYBPfGNCU a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-saYBPfGNCU h6 {
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.cid-saYBPfGNCU .mbr-iconfont {
+  padding-right: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #ffb5b5;
 }
 .cid-s48P1Icc8J {
   padding-top: 2rem;
